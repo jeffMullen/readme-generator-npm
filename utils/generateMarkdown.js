@@ -23,16 +23,25 @@ function generateMarkdown(data) {
   * [Questions](#Questions)
 
   ## Description
+  ${data.description}
 
   ## Installation
+  ${data.installation}
 
   ## Usage
+  ${data.usage}
 
   ## Contributing
+  ${data.contribution}
 
   ## Test
+  ${data.test}
 
   ## Questions
+  
+  [${data.github}](${data.github})
+
+  If you have additional questions, feel free to reach me at ${data.email}
 `;
 }
 
