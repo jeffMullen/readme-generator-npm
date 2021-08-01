@@ -1,4 +1,4 @@
-# jeff
+# fasd
 
   ## Table of Contents
   * [Description](#Description)
@@ -8,25 +8,28 @@
   * [Test](#Tests)
   * [Questions](#Questions)
 
-  ## License
+  ## License 
+This project is covered under the GNU Lesser General Public License v3.0
+    
+  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
   ## Description
-  fsa
-
-  ## Installation
   fas
 
+  ## Installation
+  
+
   ## Usage
-  fsa
+  
 
   ## Contributing
-  fa
+  
 
   ## Test
-  fasd
+  
 
   ## Questions
   
-  [fas](fas)
+  []()
 
-  If you have additional questions, feel free to reach me at fsa
+  If you have additional questions, feel free to reach me at 
