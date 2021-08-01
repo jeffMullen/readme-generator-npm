@@ -10,8 +10,9 @@ function renderLicenseLink(license) { }
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license[0] === 'None') {
-    const licenseChoice = '';
-    return licenseChoice;
+    return '';
+  } else {
+    return `## License`
   }
 }
 
