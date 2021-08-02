@@ -18,11 +18,11 @@
   ## Description
   App designed to generate a README.md file based on responses to various questions prompted in the Command Line Interface.
 
-  ![App screenshot](./images/readme-app-screenshot.png)
+  ![App screenshot](./assets/images/readme-app-screenshot.png)
 
   **The generated README after application has been run:**
 
-  ![Generated Readme](./images/generated-readme-screenshot.png)
+  ![Generated Readme](./assets/images/generated-readme-screenshot.png)
 
   ## Technologies Used
   - Node.js was used as a runtime environment for the user to interact with this Command Line Interface application.
