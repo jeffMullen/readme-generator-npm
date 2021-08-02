@@ -60,6 +60,13 @@ function init() {
         .then(response => {
             writeToFile('./sample-readme/generateReadme.md', response);
         })
+        .catch(error => {
+            if (error.isTtyError) {
+                console.log(`Prompt couldn't be rendered in the current environment`)
+            } else {
+                console.log(`Something else went wrong`)
+            }
+        })
 }
 
 //  Send prompt response to generate markdown file and use returned data to write the file
