@@ -1,5 +1,5 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty stringx
+// Badge is generated and when clicked on, linked to license information
+// If there is no license, return an empty string
 function renderLicenseBadge(license) {
   let response;
   switch (license[0]) {
@@ -50,13 +50,13 @@ function renderLicenseBadge(license) {
   return response;
 }
 
-// TODO: Create a function that returns the license link
+// Output line telling user how to get license details
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   return `Click on the badge to see **${license}** details.`
 }
 
-// TODO: Create a function that returns the license section of README
+// Create license section if a license is picked
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license[0] === 'None') {
@@ -67,7 +67,7 @@ function renderLicenseSection(license) {
   }
 }
 
-// TODO: Create a function to generate markdown for README
+// Create README markdown file
 function generateMarkdown(data) {
   return `# ${data.title}
 
@@ -107,4 +107,5 @@ function generateMarkdown(data) {
 `;
 }
 
+// Export README to index.js
 module.exports = generateMarkdown;
