@@ -1,20 +1,22 @@
-# fasd
+# Jeff
 
   ## Table of Contents
-  * [Description](#Description)
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [Contributing](#Contributing)
-  * [Test](#Tests)
-  * [Questions](#Questions)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Test](#test)
+  * [Questions](#questions)
 
   ## License 
-This project is covered under the GNU Lesser General Public License v3.0
+This project is covered under the BSD 2-Clause "Simplified" License
     
-  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+  [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+  
+  Click on the badge to see **BSD 2-Clause "Simplified" License** details
 
   ## Description
-  fas
+  
 
   ## Installation
   
