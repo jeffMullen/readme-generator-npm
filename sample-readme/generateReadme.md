@@ -1,4 +1,4 @@
-# Jeff
+# 
 
   ## Table of Contents
   * [Description](#description)
@@ -9,11 +9,11 @@
   * [Questions](#questions)
 
   ## License 
-This project is covered under the BSD 2-Clause "Simplified" License
+This project is covered under the MIT License.
     
-  [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  Click on the badge to see **BSD 2-Clause "Simplified" License** details
+  Click on the badge to see **MIT License** details.
 
   ## Description
   
