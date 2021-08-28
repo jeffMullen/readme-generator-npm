@@ -1,4 +1,4 @@
-# Readme Demonstration
+# Employee Tracker
 
   ## Table of Contents
   * [Description](#description)
@@ -9,26 +9,26 @@
   * [Questions](#questions)
 
   ## License 
-This project is covered under the Apache License 2.0.
+This project is covered under the MIT License.
     
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  Click on the badge to see **Apache License 2.0** details.
+  Click on the badge to see **MIT License** details.
 
   ## Description
-  Demonstrations of project
+  Command Line Interface application, allowing the user to keep track of departments, roles, employees, and updating employee roles.
 
   ## Installation
-  Clone with SSH keys
+  Run an 'npm install' command in the terminal.  You will need to create a .env file in the repository that matches the connection.js variables.  These will be used to access your MySQL shell.
 
   ## Usage
-  Saves time on writing READMEs
+  Use when wanting to keep track of business personnel.
 
   ## Contributing
-  Ask me if you want to
+  Reach out to me with suggestions for how you would like to improve the app.
 
   ## Test
-  Jest.js
+  
 
   ## Questions
   
